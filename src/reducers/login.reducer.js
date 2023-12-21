@@ -1,8 +1,8 @@
 import {CONSTANTS} from "../constants.js";
 
 const defaultState = {
-    email: '',
-    password: '',
+    email: 'eve.holt@reqres.in',
+    password: 'dfsdfsd',
     token: ''
 }
 
